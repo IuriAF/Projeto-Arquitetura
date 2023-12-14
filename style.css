@@ -58,23 +58,23 @@
 #formulario{
     background-color: #303030;
     color: #FFFFFF;
-    font-size: 12px;
-    padding: 120px;
+    font-size: 20px;
+    padding: 130px;
     padding-bottom: 90px;
     text-align: center;
 }
 
 #tituloformulario{
-    font-size: 39px;
-    margin-top: -80px;
-    margin-bottom: 20px;
+    font-size: 35px;
+    margin-top: -40px;
+    margin-bottom: 25px;
 }
 
 input{
     width: 424px;
     height: 50px;
     background-color: #FFFFFF;
-    margin: 21px;
+    margin: 28px;
     border: 0px;
     border-radius: 5px;
     padding-left: 10px;
